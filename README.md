@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zaidsk70
+- 👋 Hi, I’m @Zaidsk70, a doctoral fellow at Tata Memorial Centre working on Lung and oral cancer.
 - 👀 I’m interested in learning data science for Data analysis and database management
 - 🌱 I’m currently learning kallisto on miniconda and Rstudio
 - 💞️ I’m looking to contribute and learn on data science projects that will upskill my understanding and coding skills.
